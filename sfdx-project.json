@@ -5,7 +5,6 @@
       "default": true
     }
   ],
-  "name": "salesforce-pagelayout-demo",
   "namespace": "",
   "sfdcLoginUrl": "https://login.salesforce.com",
   "sourceApiVersion": "58.0"
